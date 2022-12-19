@@ -1,0 +1,6 @@
+collector.github.com^firstPartyDomain=github.com&partitionKey=%28http%2Cgithub.com%29:HSTS	0	19345	2302603622723,1,0,2
+firefox.settings.services.mozilla.com:HSTS	0	19345	1703001074254,1,0,2
+github.com^firstPartyDomain=github.com&partitionKey=%28http%2Cgithub.com%29:HSTS	0	19345	1703001088294,1,1,2
+start.parrotsec.org^firstPartyDomain=parrotsec.org&partitionKey=%28http%2Cparrotsec.org%29:HSTS	0	19345	1687189888109,1,1,2
+api.github.com^firstPartyDomain=github.com&partitionKey=%28http%2Cgithub.com%29:HSTS	0	19345	1703001103839,1,1,2
+shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	0	19345	1703001069095,1,1,2
